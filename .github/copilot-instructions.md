@@ -17,7 +17,7 @@ Skripte in Python sollen immer mit diesen 2 Zeilen anfangen:
 # by Github-Copilot 
 ```
 
-Skript in Bash sollen immer mit diesen 2 Zeilen anfangen:
+Skripte in Bash sollen immer mit diesen 2 Zeilen anfangen:
 ```
 #!/bin/bash
 # by Github-Copilot 
